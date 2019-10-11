@@ -5,7 +5,7 @@ class Anagram
     @anagram = anagram
   end
   
-  def method 
+  def method
   end
     
 end
